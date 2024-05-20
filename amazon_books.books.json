@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "66312606c97a9d53afee8ec9"
+  },
+  "name": "10-Day Green Smoothie Cleanse",
+  "author": {
+    "first_name": "JJ",
+    "last_name": "Smith",
+    "nationality": "American",
+    "biography": [],
+    "website": "",
+    "birth_date": ""
+  },
+  "genre": [
+    "Fitness"
+  ],
+  "language": [
+    "English"
+  ],
+  "series": {
+    "description": "",
+    "series_name": ""
+  },
+  "year_published": 2016,
+  "publisher": {
+    "founder": "Richard L. (Dick) Simon, M. Lincoln (Max) Schuster",
+    "name": "Simon & Schuster",
+    "website": "https://www.simonandschuster.com/"
+  },
+  "reviews": [
+    {
+      "review_id": {
+        "$oid": "66312281c97a9d53afee8ec3"
+      },
+      "address": {
+        "city": "",
+        "country": "",
+        "post_code": 0,
+        "state": "",
+        "street": ""
+      },
+      "first_name": "Liubys",
+      "last_name": "Hamilton",
+      "user_id": {
+        "$oid": "66312530c97a9d53afee8ec8"
+      },
+      "review_date": {
+        "$date": "2024-01-21T00:00:00.000Z"
+      },
+      "user_rating": {
+        "$numberDecimal": "5.0"
+      },
+      "user_text": "JJ Smith is changing lives one green smoothie at a time!"
+    }
+  ],
+  "publication_date": "2015-07-15",
+  "awards": [],
+  "ISBN": "9781501100109",
+  "page_count": 192,
+  "format": "Paperback",
+  "edition": ""
+},
+{
+  "_id": {
+    "$oid": "66312edbc97a9d53afee8ecc"
+  },
+  "name": "1984(Signed Classics)",
+  "author": {
+    "first_name": "George",
+    "last_name": "Orwell",
+    "nationality": "British",
+    "biography": [
+      "Animal Farm",
+      ""
+    ],
+    "website": "",
+    "birth_date": "1903"
+  },
+  "genre": [
+    "Fiction",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "language": [
+    "English",
+    "",
+    "",
+    ""
+  ],
+  "series": {
+    "description": "",
+    "series_name": ""
+  },
+  "year_published": 2016,
+  "publisher": {
+    "founder": "Victor Weybright, Kurt Enoch",
+    "name": "New American Library",
+    "website": ""
+  },
+  "reviews": [
+    {
+      "review_id": {
+        "$oid": "66312281c97a9d53afee8ec3"
+      },
+      "address": {
+        "city": "",
+        "country": "",
+        "post_code": 0,
+        "state": "",
+        "street": ""
+      },
+      "first_name": "Ryan",
+      "last_name": "O'Reilly",
+      "user_id": {
+        "$oid": "66312530c97a9d53afee8ec8"
+      },
+      "review_date": {
+        "$date": "2016-01-02T00:00:00.000Z"
+      },
+      "user_rating": {
+        "$numberDecimal": "5.0"
+      },
+      "user_text": "Ages like a fine wine with a dark, full-bodied harbinger of doom, increasing with relevance as each year goes by."
+    },
+    {}
+  ],
+  "publication_date": "1961-01-01",
+  "awards": [
+    {},
+    {}
+  ],
+  "ISBN": "9780451524935",
+  "page_count": 177,
+  "format": "Hardcover",
+  "edition": ""
+},
+{
+  "_id": {
+    "$oid": "6631322cc97a9d53afee8ecd"
+  },
+  "name": "Born to Run",
+  "author": {
+    "first_name": "Bruce",
+    "last_name": "Springsteen",
+    "nationality": "American",
+    "biography": [
+      "",
+      ""
+    ],
+    "website": "",
+    "birth_date": "23.09.1949"
+  },
+  "genre": [
+    "Non Fiction",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "language": [
+    "English",
+    "",
+    "",
+    ""
+  ],
+  "series": {
+    "description": "",
+    "series_name": ""
+  },
+  "year_published": 2016,
+  "publisher": {
+    "founder": "Richard L. (Dick) Simon, M. Lincoln (Max) Schuster",
+    "name": "Simon & Schuster",
+    "website": "https://www.simonandschuster.com/"
+  },
+  "reviews": [
+    {
+      "review_id": {
+        "$oid": "66312281c97a9d53afee8ec3"
+      },
+      "address": {
+        "city": "",
+        "country": "",
+        "post_code": 0,
+        "state": "",
+        "street": ""
+      },
+      "first_name": "Andrew G.",
+      "last_name": "Marshall",
+      "user_id": {
+        "$oid": "66312530c97a9d53afee8ec8"
+      },
+      "review_date": {
+        "$date": "2017-05-09T00:00:00.000Z"
+      },
+      "user_rating": {
+        "$numberDecimal": "5.0"
+      },
+      "user_text": "Intelligent take on what it is to be man (as well as legend)"
+    },
+    {}
+  ],
+  "publication_date": "2016-09-27",
+  "awards": [
+    {},
+    {}
+  ],
+  "ISBN": "1501141511",
+  "page_count": 528,
+  "format": "Hardcover",
+  "edition": "First Edition"
+}]
